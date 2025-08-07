@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+.title-box {
+    text-align: center;
+}
+
+.title {
+    display: inline-block;
+    width: 225px;
+    background-color: blueviolet;
+}
+
+.description {
+    display: inline-block;
+    background-color: aqua;
+    margin: 8px;
+}
+
+.link-list {
+    text-align: center;
+}
+
+.link {
+    display: inline-block;
+    text-align: center;
+    width: 115px;
+    border: 2px solid black;
+    margin: 10px 30px;
+}
+
+.link-text {
+    text-decoration: none;
+}
